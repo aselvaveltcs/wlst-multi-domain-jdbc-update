@@ -1,0 +1,1 @@
+WEBLOGIC cluster_name t3_admin_hostname:t3_admin_port weblogic your_password

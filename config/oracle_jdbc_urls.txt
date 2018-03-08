@@ -1,0 +1,6 @@
+YOUR_ORACLE1.service.name
+    database1_hostname1:1529
+    database2_hostname2:1529
+YOUR_ORACLE2.service.name
+    database1_hostname1:1529
+    database2_hostname2:1529
